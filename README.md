@@ -19,7 +19,7 @@
     </dd></dl></dd></dl></dd></dl></dd></dl>  
     <dl><dd><dl><dd><dl><dd><dl><dd>
     <h2>Visual Intro</h2>
-    <img src="FrameTest_1600.png">
+    <img src="Frame1.png">
     <h2>My Hobbies</h2>
     <div>
         <details>
