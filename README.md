@@ -1,4 +1,7 @@
-### Hi there 👋
+<div class="main">
+    <img src="header.png">
+</div>
+
 
 <!--
 **jamesnguyen03/jamesnguyen03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
