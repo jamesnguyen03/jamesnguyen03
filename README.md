@@ -1,5 +1,5 @@
 <div class="main">
-    <img src="header.png">
+    <img src="header_400.png">
 </div>
 <dl><dd><dl><dd><dl><dd><dl><dd>
 🔭 I’m currently working on ...
