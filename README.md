@@ -1,9 +1,34 @@
 <div class="main">
     <img src="header_400.png">
+    <p align="center">
+        <a href="https://www.jamesvincentnguyen.com/"><img width="32px" src=""></a>
+        <a href="https://www.linkedin.com/in/jamesnguyen003/"><img width="32px" src=""></a>
+        <a href="mailto: jamesnguyen99@hotmail.com"><img width="32px" src=""></a>
+    </p>
     <dl><dd><dl><dd><dl><dd><dl><dd>
-    🔭 I’m currently working on ...
-    </dd></dl></dd></dl></dd></dl></dd></dl>    
-    <img src="FrameTest.png">
+        <p>Welcome to my GitHub Profile. I'm James, an aspiring full stack developer who's passionate about learning, growing, and experiencing new things!</p>  
+        <details>
+            <summary>More about me!</summary>
+            <dl><dd><dl><dd>
+            <p>🔭 I’m currently working on ...</p>
+            <p>🌱 I’m currently learning ...</p>
+            <p>👯 I’m looking to collaborate on ...</p>
+            <p>🤔 I’m looking for help with ...</p>
+             </dl></dd></dl></dd>
+        </details>
+    </dd></dl></dd></dl></dd></dl></dd></dl>  
+    <dl><dd><dl><dd><dl><dd><dl><dd>
+    <h2>Visual Intro</h2>
+    <img src="FrameTest_1600.png">
+    <h2>My Hobbies</h2>
+    <div>
+        <details>
+            <summary>Attributions</summary>
+            <a href="https://www.flaticon.com/free-icons/linkedin" title="linkedin icons">Linkedin icons created by Freepik - Flaticon</a>
+            <a href="https://www.flaticon.com/free-icons/internet" title="internet icons">Internet icons created by Freepik - Flaticon</a>
+        </details>
+    </div>   
+    </dd></dl></dd></dl></dd></dl></dd></dl>   
 </div>
 
 <!--
