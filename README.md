@@ -26,6 +26,7 @@
             <summary>Attributions</summary>
             <a href="https://www.flaticon.com/free-icons/linkedin" title="linkedin icons">Linkedin icons created by Freepik - Flaticon</a>
             <a href="https://www.flaticon.com/free-icons/internet" title="internet icons">Internet icons created by Freepik - Flaticon</a>
+            <a href="https://www.flaticon.com/free-icons/email" title="email icons">Email icons created by Uniconlabs - Flaticon</a>
         </details>
     </div>   
     </dd></dl></dd></dl></dd></dl></dd></dl>   
