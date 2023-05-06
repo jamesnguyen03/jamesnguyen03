@@ -1,9 +1,9 @@
 <div class="main">
-    <img src="header_400.png">
+    <img src="/Images/header_400.png">
     <p align="center">
-        <a href="https://www.jamesvincentnguyen.com/"><img width="32px" src=""></a>
-        <a href="https://www.linkedin.com/in/jamesnguyen003/"><img width="32px" src=""></a>
-        <a href="mailto: jamesnguyen99@hotmail.com"><img width="32px" src=""></a>
+        &nbsp; <a href="https://www.jamesvincentnguyen.com/" title="Website"><img width="32px" src="/Images/globe.png"></a> &nbsp;
+        &nbsp; <a href="https://www.linkedin.com/in/jamesnguyen003/" title="LinkedIn"><img width="32px" src="/Images/linkedin.png"></a> &nbsp;
+        &nbsp;<a href="mailto: jamesnguyen99@hotmail.com" title="Email"><img width="32px" src="/Images/email.png"></a> &nbsp;
     </p>
     <dl><dd><dl><dd><dl><dd><dl><dd>
         <p>Welcome to my GitHub Profile. I'm James, an aspiring full stack developer who's passionate about learning, growing, and experiencing new things!</p>  
@@ -19,7 +19,7 @@
     </dd></dl></dd></dl></dd></dl></dd></dl>  
     <dl><dd><dl><dd><dl><dd><dl><dd>
     <h2>Visual Intro</h2>
-    <img src="Frame1.png">
+    <img src="/Images/Frame0.png">
     <h2>My Hobbies</h2>
     <div>
         <details>
