@@ -29,6 +29,7 @@
             <p><a href="http://35.239.86.182/Q2?callback=https://github.com/jamesnguyen03"><b>Q2:</b></a> Do you have any programming projects?</p>
             <p><a href="http://35.239.86.182/Q3?callback=https://github.com/jamesnguyen03"><b>Q3:</b></a> What motivates you?</p>
             <p><a href="http://35.239.86.182/Q4?callback=https://github.com/jamesnguyen03"><b>Q4:</b></a> What do you enjoy doing in your free time?</p>
+            <p><a href="http://35.239.86.182/random?callback=https://github.com/jamesnguyen03"><b>Q4:</b></a> What's a random fact about you?</p>
             <p><a href="http://35.239.86.182/restart?callback=https://github.com/jamesnguyen03"><b>RESTART</b></a></p>                
             </dl></dd></dl></dd>
         </details>
