@@ -19,7 +19,7 @@
     </dd></dl></dd></dl></dd></dl></dd></dl>  
     <dl><dd><dl><dd><dl><dd><dl><dd>
     <h2>Visual Intro</h2>
-    <img src="34.133.199.218/static/Main.png">
+    <img src="http://35.239.86.182/static/Main.png">
     <h2>My Hobbies</h2>
     <div>
         <details>
