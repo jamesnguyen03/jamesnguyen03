@@ -20,7 +20,7 @@
     </dd></dl></dd></dl></dd></dl></dd></dl>  
     <dl><dd><dl><dd><dl><dd><dl><dd>
     <h2>Visual Intro</h2>
-    <a target="_blank"href="http://35.239.86.182/next?callback=https://github.com/jamesnguyen03"><img src="http://35.239.86.182/static/Main.png"></a>
+    <a target="_blank" href="http://35.239.86.182/next?callback=https://github.com/jamesnguyen03"><img src="http://35.239.86.182/static/Main.png"></a>
     <div>
         <details>
             <summary><b>You can click the "Next" button or select a question that you're interested in!</b></summary>
