@@ -1,6 +1,6 @@
 <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
 <div class="main">
-    <a href="www.jamesvincentnguyen.com"><img src="/Images/header_400.png"></a>
+    <a href="https://www.jamesvincentnguyen.com"><img src="/Images/header_400.png"></a>
     <p align="center">
         &nbsp; <a href="https://www.jamesvincentnguyen.com/" title="Website"><img width="32px" src="/Images/globe.png"></a> &nbsp;
         &nbsp; <a href="https://www.linkedin.com/in/jamesnguyen003/" title="LinkedIn"><img width="32px" src="/Images/linkedin.png"></a> &nbsp;
