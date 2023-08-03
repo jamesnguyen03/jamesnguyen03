@@ -29,8 +29,8 @@
             <p><a href="http://34.30.64.50/jump?redirect=https://github.com/jamesnguyen03&idx=5"><b>Q2:</b></a> Do you have any programming projects?</p>
             <p><a href="http://34.30.64.50/jump?redirect=https://github.com/jamesnguyen03&idx=8"><b>Q3:</b></a> What motivates you?</p>
             <p><a href="http://34.30.64.50/jump?redirect=https://github.com/jamesnguyen03&idx=9"><b>Q4:</b></a> What do you enjoy doing in your free time?</p>
-            <p><a href="http://35.239.86.182/random?redirect=https://github.com/jamesnguyen03"><b>Q5:</b></a> What's a random fact about you?</p>
-            <p><a href="http://35.239.86.182/jump?redirect=https://github.com/jamesnguyen03&idx=0"><b>RESTART</b></a></p>                
+            <p><a href="http://34.30.64.50/random?redirect=https://github.com/jamesnguyen03"><b>Q5:</b></a> What's a random fact about you?</p>
+            <p><a href="http://34.30.64.50/jump?redirect=https://github.com/jamesnguyen03&idx=0"><b>RESTART</b></a></p>                
             </dl></dd></dl></dd>
         </details>
     </div>
